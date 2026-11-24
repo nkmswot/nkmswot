@@ -23,14 +23,25 @@ With 20+ years of experience in software development, I enjoy building applicati
 
 **Tools:** Git, GitHub, GitLab, REST APIs
 
-### 📊 My Developer Statistics
+### 🚀 Products & Projects
 
-[![GitHub Stats](https://stats.quine.sh/nkmswot/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nkmswot)
+I'm the creator and developer of several web applications and SaaS products:
 
-[![Stack Overflow Stats](https://stats.quine.sh/nkmswot/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nkmswot)
+- 📝 [Tamil Grammar Checker](https://tamilgrammarchecker.com) – AI-powered Tamil grammar and spelling correction.
+- 🔍 [KeywordResearch.pro](https://keywordresearch.pro) – Keyword research and SEO tools.
+- 💰 [Expenshare](https://expenshare.app) – Expense tracking and sharing application.
+- 👥 [HRM Softworks](https://hrmsoftworks.com) – Human resource management software.
+- 📊 [Accounting Softworks](https://accountingsoftworks.com) – Business accounting software.
+- 🌐 [MLM Softworks](https://mlmsoftworks.com) – MLM and network marketing software.
 
-[![Languages Over Time](https://stats.quine.sh/nkmswot/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nkmswot)
+### 🤝 Let's Collaborate!
+
+I'm open to working with startups, entrepreneurs, businesses, and developers to build useful digital products.
+
+Have an idea or project? Let's connect and make it happen!
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/softwarekarthik/)
 
 ---
 
-⭐ *Building useful software, automating workflows, and turning ideas into reality.*
+⭐ *Building useful software. Automating workflows. Turning ideas into reality.*
